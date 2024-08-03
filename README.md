@@ -4,7 +4,7 @@
 
 In this tutorial, we use the `wine-reviews` dataset to learn exploratory data analysis using Python.
 
-![Wine Reviews Tutorial](https://en.wikipedia.org/wiki/Wine_tasting#/media/File:Tempranillowine.jpg)
+![Wine Reviews Tutorial](https://upload.wikimedia.org/wikipedia/commons/a/a0/Tempranillowine.jpg)
 
 We learn how to apply tools used by data analysts and data scientists for data exploration and data visualisation:
 
