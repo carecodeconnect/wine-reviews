@@ -44,6 +44,7 @@ To do the tutorial:
    conda create -n wine-reviews python=3.10
    pip install -r requirements.txt
    ```
+4. Open the Jupyter notebooks with a text editor of your choice (e.g. Visual Studio Code).
 
 ## Project Structure
 
